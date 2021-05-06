@@ -1,4 +1,4 @@
-- 👋 Hi, <h3>I’m @fernandodoc</h3>
+- 👋 Hi, <h3 style="font-style: fantasy>I’m @fernandodoc</h3>
 - 👀 I’m interested in <ins> learning new skills</ins>
 - 🌱 I’m currently learning <strong> html, css & javascript </strong>
 - 💞️ I’m looking to collaborate with anyone if I am useful

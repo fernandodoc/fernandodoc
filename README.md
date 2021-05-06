@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fernandodoc
+- 👋 Hi, <h1>I’m @fernandodoc<h1)
 - 👀 I’m interested in <ins> learning new skills</ins>
 - 🌱 I’m currently learning <strong> html, css & javascript </strong>
 - 💞️ I’m looking to collaborate with anyone if I am useful

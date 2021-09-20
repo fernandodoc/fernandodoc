@@ -8,6 +8,8 @@
  
  💞️ I’m looking to collaborate with open source projects to improve my skills. If I am useful, contact me. <br>
  
+ ❤️ Amateur photografy, filmaker, guitarplayer, cooker and writer. The best of the world (my mom says) 🤣
+ 
  📫 How to reach me? Send me <a href="mailto:fernando@lidere360ads.com">an email</a> or message on Instagram, <a href="https://wa.me/5516981180180" target="_blank">WhatsApp</a>, Telegram or LinkedIn :)<br> 
  <br>
  Welcome! :)

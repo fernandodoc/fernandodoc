@@ -12,9 +12,9 @@
  
  📫 How to reach me? Send me <a href="mailto:fernando@lidere360ads.com">an email</a> or message on <a href="https://www.instagram.com/fernandodoc7/" target="_blank">Instagram</a>, <a href="https://wa.me/5516981180180" target="_blank">WhatsApp</a>, <a href="https://t.me/FernandoConsultorProfessor" target="_blank">Telegram</a> or LinkedIn :)<br> 
  <br>
- ☕ Let's have coffee and develop a business? 
+ ☕ Let's have coffee and talk? It will be an honour 
  
- Welcome! :)
+ Welcome to my world :)
 
 <!---
 fernandodoc/fernandodoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

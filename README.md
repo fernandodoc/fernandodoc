@@ -10,9 +10,9 @@
  
  ❤️ Amateur photografy, filmaker, guitarplayer, cooker and writer. The best of the world (my mom says) 🤣
  
- 📫 How to reach me? Send me <a href="mailto:fernando@lidere360ads.com">an email</a> or message on <a href="https://www.instagram.com/fernandodoc7/" target="_blank">Instagram</a>, <a href="https://wa.me/5516981180180" target="_blank">WhatsApp</a>, <a href="https://t.me/FernandoConsultorProfessor" target="_blank">Telegram</a> or LinkedIn :)<br> 
+ 📫 How to reach me? Send me <a href="mailto:fernando@lidere360ads.com">an email</a> or message on <a href="https://www.instagram.com/fernandodoc7/" target="_blank">Instagram</a>, <a href="https://wa.me/5516981180180" target="_blank">WhatsApp</a>, <a href="https://t.me/FernandoConsultorProfessor" target="_blank">Telegram</a> or LinkedIn<br> 
  <br>
- ☕ Let's have coffee and talk? It will be an honour 
+ ☕ Let's have coffee and talk? It will be an honour.
  
  🌐 Welcome to my world :)
 

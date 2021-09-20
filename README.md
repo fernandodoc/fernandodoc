@@ -6,7 +6,7 @@
  
  🌱 I’m currently learning <strong> html, css, javascript, php & cloud computing (GCP and AWS). </strong><br> 
  
- 💞️ I’m looking to collaborate with open source projects to improve my skills. If I am useful, contact me. <br>
+ 💡 I’m looking to collaborate with open source projects to improve my skills. If I am useful, contact me. <br>
  
  ❤️ Amateur photografy, filmaker, guitarplayer, cooker and writer. The best of the world (my mom says) 🤣
  

@@ -4,7 +4,7 @@
   
  👀 Experience with sales, digital marketing, Wordpress (builders like Elementor, Yoo, Wp Bakery) and I´m <em> learning new skills</em> with Adobe (Photoshop, Premiere, Indesign, Illustrator and After Effects).<br>
  
- 🌱 Currently learning <strong> html, css, javascript, php & cloud computing (GCP, Azure and AWS). </strong><br> 
+ 🌱 Currently learning <strong> html, css, javascript, php & cloud computing (<a href="https://cloud.google.com">GCP</a>, <a href="https://aws.amazon.com/pt/">AWS</a> and <a href="https://azure.microsoft.com/pt-br/">Azure</a>). </strong><br> 
  
  💡 Looking to collaborate with open source projects to improve my skills. If I am useful, contact me. <br>
  

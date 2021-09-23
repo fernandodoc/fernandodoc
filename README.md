@@ -2,7 +2,7 @@
  
  👨‍🎓 Degree in "International Relations" (University Moura Lacerda), MBA "Sales Management" (Fundace/USP) and Cademp "Negotiation" (FGV)
   
- 👀 Experience with sales, digital marketing, Wordpress (builders like Elementor, Yoo, Wp Bakery) and I´m <em> learning new skills</em> with Adobe (Photoshop, Premiere, Indesign, Illustrator and After Effects).<br>
+ 👀 Experience with sales, digital marketing, Wordpress (builders like Elementor, Yoo, Wp Bakery) and <em> with Adobe (Photoshop, Premiere, Indesign, Illustrator and After Effects)</em>.<br>
  
  🌱 Currently learning <strong> html, css, javascript, php & cloud computing (<a href="https://cloud.google.com">GCP</a>, <a href="https://aws.amazon.com/pt/">AWS</a> and <a href="https://azure.microsoft.com/pt-br/">Azure</a>). </strong><br> 
  

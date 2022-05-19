@@ -1,11 +1,11 @@
 
  <h1> Welcome to my profile</h1>
  
- <dl>
- <dd>teste</dd>
-</dl>
- 
- Amateur photografy, filmaker, guitarplayer, cooker and writer. The best of the world (my mom says)
+ Let´s talk, work and having fun.
+ The life is going on. 
+
+ Who am I?
+ In my free time I am an photografy, filmaker, editor, guitarplayer, cooker and writer. 
  
  👨‍🎓 Degree in "International Relations" (University Moura Lacerda), MBA "Sales Management" (Fundace/USP) and Cademp "Negotiation" (FGV)
   

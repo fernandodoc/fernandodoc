@@ -1,5 +1,5 @@
 
- <h1 style="color:blue;"> Hi folks! Welcome to my profile</h1>
+ <h1 style="font-family: Fantasy, Copperplate, Papyrus"> Welcome to my profile</h1>
  
  👨‍🎓 Degree in "International Relations" (University Moura Lacerda), MBA "Sales Management" (Fundace/USP) and Cademp "Negotiation" (FGV)
   

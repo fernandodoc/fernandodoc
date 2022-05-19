@@ -9,7 +9,8 @@ Here´s my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">Li
 > a photografy, filmaker, editor, guitarplayer, cooker and writer (in my free time). 
 <br> 
  
-__20 years experience with Sales (b2b, b2c and b2g), Business Management, Customer Success Manager or Account Manager and 5 years working with digital marketing.__
+__20 years experience with Sales (b2b, b2c and b2g), Business Management, Customer Success Manager and Account Manager.
+<br> 5 years experience with digital marketing.__
 <br>Excellent communication skills; written, oral and presentation. 
 <br>Experience meeting and exceeding Net Revenue Retention (NRR) and growth goals
 <br>__Working with website development, web design, digital marketing, copywriting and making some coffees.__

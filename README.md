@@ -24,7 +24,7 @@ __20 years experience with Sales (b2b, b2c and b2g), Business Management, Custom
      - [x] WordPress and builders like Elementor, Yoo and Wp Bakery
      - [x] Adobe (Photoshop, Premiere & Indesign)
      - [x] Google Marketing Platform (Ads, Tag Manager, Analytics etc)
-     - [ ] Facebook, Instagram and LinkedIn Ads
+     - [x] Facebook, Instagram and LinkedIn Ads
      - [ ] Laragon, Xampp, NPM, CLI
      - [ ] Digital and Agile Thinking (Agile methodologies)
  

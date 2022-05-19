@@ -9,6 +9,7 @@ Here´s my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">Li
 > a photografy, filmaker, editor, guitarplayer, cooker and writer (in my free time). 
 <br> 
  
+<h2>About me</h2>
 __20 years experience with Sales (b2b, b2c and b2g), Business Management, Customer Success Manager and Account Manager.
 <br> 5 years experience with digital marketing.__
 <br>Excellent communication skills (written, oral and presentation = portuguese). 

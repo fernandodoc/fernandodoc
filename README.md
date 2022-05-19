@@ -2,7 +2,7 @@
  <h1> Welcome to my profile</h1>
  
 Ask me anything, any time, it's always great to be of assistance.
-Don't give it a second thought, let´s talk, work and having fun.
+Don't give it a second thought, let´s talk, work and having fun. 
 
 Here is my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">LinkedIn</a> but I´m also too...
 > a photografy, filmaker, editor, guitarplayer, cooker and writer (in my free time). 
@@ -37,7 +37,7 @@ Here is my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">Li
      - Flutter
      - IoT
      - Machine Learning
-      
+       
    
  📫 How to reach me? Send me <a href="mailto:fernando@lidere360ads.com">an email</a> or message on <a href="https://www.instagram.com/fernandodoc7/" target="_blank">Instagram</a>, <a href="https://wa.me/5516981180180" target="_blank">WhatsApp</a>, <a href="https://t.me/FernandoConsultorProfessor" target="_blank">Telegram</a> or <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">LinkedIn</a><br> 
  <br>

@@ -2,7 +2,7 @@
  <h1> Welcome to my profile</h1>
  
 Ask me anything, any time, it's always great to be of assistance.
-Don't give it a second thought, let´s talk, work and having fun. 
+Don't give it a second thought... let´s talk, work and having fun. 
 <br> 
 <br> 
 Here´s my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">LinkedIn</a> but I'm also...

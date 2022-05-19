@@ -5,7 +5,7 @@ Ask me anything, any time, it's always great to be of assistance.
 Don't give it a second thought, let´s talk, work and having fun. 
 <br> 
 <br> 
-Here is my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">LinkedIn</a> but I´m also too...
+Here´s my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">LinkedIn</a> but I'm also...
 > a photografy, filmaker, editor, guitarplayer, cooker and writer (in my free time). 
 <br> 
  

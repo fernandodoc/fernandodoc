@@ -11,7 +11,7 @@ Here´s my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">Li
  
 <h2>About me</h2>
 
-__20 years experience with Sales (b2b, b2c and b2g), Business Management, Customer Success Manager and Account Manager.__<br>
+__20 years experience with Sales Consulting (b2b, b2c and b2g), Business Management, Customer Success Manager and Account Manager.__<br>
 __5 years experience with digital marketing.__
 __Excellent communication skills (written, oral and presentation).__<br> 
 __Experience meeting and exceeding Net Revenue Retention (NRR) and growth goals.__<br>

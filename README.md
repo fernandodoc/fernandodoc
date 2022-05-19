@@ -10,15 +10,15 @@ Here´s my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">Li
 <br> 
  
 <h2>About me</h2>
-<br>
-__20 years experience with Sales (b2b, b2c and b2g), Business Management, Customer Success Manager and Account Manager.__
-<br>__5 years experience with digital marketing.__
-<br>__Excellent communication skills (written, oral and presentation = portuguese).__ 
-<br>__Experience meeting and exceeding Net Revenue Retention (NRR) and growth goals.__
-<br>__Working with website development, web design, digital marketing, copywriting and making some coffees.__
-<br>__Looking to collaborate with projects open source or new projects. If I am useful, just contact me.__
+
+__20 years experience with Sales (b2b, b2c and b2g), Business Management, Customer Success Manager and Account Manager.__<br>
+__5 years experience with digital marketing.__
+__Excellent communication skills (written, oral and presentation).__<br> 
+__Experience meeting and exceeding Net Revenue Retention (NRR) and growth goals.__<br>
+__Working with website development, web design, digital marketing, copywriting and making some coffees.__<br>
+__Looking to collaborate with projects open source or new projects. If I am useful, just contact me.__<br>
  <br><br>
- __MBA in "Sales Management", degree in "International Relations", expert in "Hard Negotiations and many certifications in digital marketing".__
+ __MBA in "Sales Management", degree in "International Relations", expert in "Hard Negotiations and some certifications in digital marketing".__
 
  
  1. Skills

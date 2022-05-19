@@ -3,17 +3,18 @@
  
 Ask me anything, any time, it's always great to be of assistance.
 Don't give it a second thought, let´s talk, work and having fun. 
-
+<br> 
+<br> 
 Here is my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">LinkedIn</a> but I´m also too...
 > a photografy, filmaker, editor, guitarplayer, cooker and writer (in my free time). 
-  
-20 years experience with sales (b2b, b2c and b2g), business management and 5 with digital marketing.
+<br> 
  
- Working with website development, web design, digital marketing, copywriting and I making coffee.
- 
+__20 years experience with sales (b2b, b2c and b2g), business management and 5 with digital marketing.__
+<br>__Working with website development, web design, digital marketing, copywriting and I making coffee.__
+<br>__Looking to collaborate with projects open source or new projects. If I am useful, just contact me.__
+ <br><br>
  Degree in "International Relations", MBA in "Sales Management" and expert in "Hard Negotiations".
- 
- __Looking to collaborate with projects open source or new projects. If I am useful, just contact me.__
+
  
  1. Skills
      - [x] HTML, CSS and Bootstrap
@@ -29,7 +30,7 @@ Here is my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">Li
      - Cloud Computing (<a href="https://cloud.google.com">GCP</a>, <a href="https://aws.amazon.com/pt/">AWS</a> and <a href="https://azure.microsoft.com/pt-br/">Azure</a>)
      - Ubuntu (Linux distribution)
 
- 3. My Next roadmap study
+ 3. My Next roadmap
      - Tailwind
      - Typescript
      - React
@@ -38,7 +39,7 @@ Here is my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">Li
      - IoT
      - Machine Learning
        
-   
+ <br>  
  📫 How to reach me? Send me <a href="mailto:fernando@lidere360ads.com">an email</a> or message on <a href="https://www.instagram.com/fernandodoc7/" target="_blank">Instagram</a>, <a href="https://wa.me/5516981180180" target="_blank">WhatsApp</a>, <a href="https://t.me/FernandoConsultorProfessor" target="_blank">Telegram</a> or <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">LinkedIn</a><br> 
  <br>
  

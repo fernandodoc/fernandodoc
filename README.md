@@ -1,6 +1,12 @@
 
  <h1> Welcome to my profile</h1>
  
+ <dl>
+ <dd>teste</dd>
+</dl>
+ 
+ Amateur photografy, filmaker, guitarplayer, cooker and writer. The best of the world (my mom says)
+ 
  👨‍🎓 Degree in "International Relations" (University Moura Lacerda), MBA "Sales Management" (Fundace/USP) and Cademp "Negotiation" (FGV)
   
  👀 Experience with sales, digital marketing, Wordpress (builders like Elementor, Yoo, Wp Bakery) and <em> Adobe (Photoshop, Premiere & Indesign)</em>.<br>

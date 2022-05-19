@@ -10,7 +10,7 @@ Here´s my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">Li
 <br> 
  
 __20 years experience with sales (b2b, b2c and b2g), business management and 5 with digital marketing.__
-<br>__Working with website development, web design, digital marketing, copywriting and I making coffee.__
+<br>__Working with website development, web design, digital marketing, copywriting and making some coffees.__
 <br>__Looking to collaborate with projects open source or new projects. If I am useful, just contact me.__
  <br><br>
  Degree in "International Relations", MBA in "Sales Management" and expert in "Hard Negotiations".

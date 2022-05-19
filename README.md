@@ -1,11 +1,14 @@
 
  <h1> Welcome to my profile</h1>
  
- Let´s talk, work and having fun.
- The life is going on. 
+Ask me anything, any time, it's always great to be of assistance.
+Don't give it a second thought, let´s talk, work and having fun.
 
- Who am I?
- In my free time I am an photografy, filmaker, editor, guitarplayer, cooker and writer. 
+ I´m a photografy, filmaker, editor, guitarplayer, cooker and writer (in my free time). 
+ 
+ Looking to collaborate new projects and open source too. If I am useful, just contact me.
+ 
+ Access my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">LinkedIn</a><br> to access my professional resume
  
  👨‍🎓 Degree in "International Relations" (University Moura Lacerda), MBA "Sales Management" (Fundace/USP) and Cademp "Negotiation" (FGV)
   

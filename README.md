@@ -1,8 +1,5 @@
- body {
- background-color: white;
-   }
- 
- <h4>👋 Hi, I’m @fernandodoc</h4>
+
+ <h1>👋 Hi, I’m @fernandodoc</h1>
  
  👨‍🎓 Degree in "International Relations" (University Moura Lacerda), MBA "Sales Management" (Fundace/USP) and Cademp "Negotiation" (FGV)
   

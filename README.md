@@ -8,9 +8,13 @@ Don't give it a second thought, let´s talk, work and having fun.
  
  Looking to collaborate new projects and open source too. If I am useful, just contact me.
  
- Access my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">LinkedIn</a><br> to access my professional resume
+ Access my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">LinkedIn</a> to access my professional resume.
  
- 👨‍🎓 Degree in "International Relations" (University Moura Lacerda), MBA "Sales Management" (Fundace/USP) and Cademp "Negotiation" (FGV)
+ 20 years experience with sales (b2b, b2c and b2g), business management and 5 years with digital marketing.
+ 
+ I work with website development, web design, digital marketing, copywriting and I make coffee.
+ 
+ Degree in "International Relations", MBA in "Sales Management" and expert in "Hard Negotiations".
   
  👀 Experience with sales, digital marketing, Wordpress (builders like Elementor, Yoo, Wp Bakery) and <em> Adobe (Photoshop, Premiere & Indesign)</em>.<br>
  

@@ -22,7 +22,7 @@ __20 years experience with sales (b2b, b2c and b2g), business management and 5 w
      - [x] Adobe (Photoshop, Premiere & Indesign)
      - [x] Google Marketing Platform (Ads, Tag Manager, Analytics etc)
      - [ ] Facebook, Instagram and LinkedIn Ads
-     - [ ] Laragon, Xampp, Git/Github, NPM, CLI
+     - [ ] Laragon, Xampp, NPM, CLI
      - [ ] Digital and Agile Thinking (Agile methodologies)
  
  2. Currently learning:

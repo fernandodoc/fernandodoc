@@ -13,7 +13,7 @@ Here´s my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">Li
 
 __Microsoft Certified: AZ 900__<br>
 
-__- 20 years experience with Sales Consulting (b2b, b2c and b2g), Business Management, Customer Success Manager and Account Manager.__<br>
+__- 20 years experience with Sales Consulting, Business Management, Customer Success Manager and Account Manager.__<br>
 __- 5 years experience with digital marketing.__
 __- Excellent communication skills (written, oral and presentation).__<br> 
 __- Experience meeting and exceeding Net Revenue Retention (NRR) and growth goals.__<br>

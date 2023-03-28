@@ -21,7 +21,7 @@ __- 5 years experience with digital marketing.__
 __- Excellent communication skills (written, oral and presentation).__<br> 
 __- Experience meeting and exceeding Net Revenue Retention (NRR) and growth goals.__<br>
 __- Working with website development, web design, digital marketing, audiovisual, copywriting and making some coffees.__<br>
-__- Looking to collaborate with projects open source or new projects. If I am useful, just contact me.__<br>
+__- Looking to learning and collaborate with projects open source or new projects. If I am useful, just contact me.__<br>
  <br><br>
   
  1. Skills

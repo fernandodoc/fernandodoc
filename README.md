@@ -13,14 +13,14 @@ Here´s my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">Li
 
 __Microsoft Certified: AZ 900__<br>
 
-__20 years experience with Sales Consulting (b2b, b2c and b2g), Business Management, Customer Success Manager and Account Manager.__<br>
-__5 years experience with digital marketing.__
-__Excellent communication skills (written, oral and presentation).__<br> 
-__Experience meeting and exceeding Net Revenue Retention (NRR) and growth goals.__<br>
-__Working with website development, web design, digital marketing, audiovisual, copywriting and making some coffees.__<br>
-__Looking to collaborate with projects open source or new projects. If I am useful, just contact me.__<br>
+__- 20 years experience with Sales Consulting (b2b, b2c and b2g), Business Management, Customer Success Manager and Account Manager.__<br>
+__- 5 years experience with digital marketing.__
+__- Excellent communication skills (written, oral and presentation).__<br> 
+__- Experience meeting and exceeding Net Revenue Retention (NRR) and growth goals.__<br>
+__- Working with website development, web design, digital marketing, audiovisual, copywriting and making some coffees.__<br>
+__- Looking to collaborate with projects open source or new projects. If I am useful, just contact me.__<br>
  <br><br>
- __MBA in "Sales Management", degree in "International Relations", expert in "Hard Negotiations and some certifications in digital marketing".__
+ __- MBA in "Sales Management", degree in "International Relations", expert in "Hard Negotiations and some certifications in digital marketing".__
 
  
  1. Skills

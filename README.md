@@ -9,13 +9,15 @@ Here´s my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">Li
 > a photografy, filmaker, editor, guitarplayer, cooker and writer (in my free time). 
 <br> 
  
-<h2>About me</h2>
+<h2>About me:</h2>
+
+__Microsoft Certified: AZ 900__<br>
 
 __20 years experience with Sales Consulting (b2b, b2c and b2g), Business Management, Customer Success Manager and Account Manager.__<br>
 __5 years experience with digital marketing.__
 __Excellent communication skills (written, oral and presentation).__<br> 
 __Experience meeting and exceeding Net Revenue Retention (NRR) and growth goals.__<br>
-__Working with website development, web design, digital marketing, copywriting and making some coffees.__<br>
+__Working with website development, web design, digital marketing, audiovisual, copywriting and making some coffees.__<br>
 __Looking to collaborate with projects open source or new projects. If I am useful, just contact me.__<br>
  <br><br>
  __MBA in "Sales Management", degree in "International Relations", expert in "Hard Negotiations and some certifications in digital marketing".__
@@ -24,29 +26,27 @@ __Looking to collaborate with projects open source or new projects. If I am usef
  1. Skills
      - [x] HTML, CSS and Bootstrap
      - [x] WordPress and builders like Elementor, Yoo and Wp Bakery
-     - [x] Adobe (Photoshop, Premiere & Indesign)
+     - [x] Adobe (Photoshop, Lightroom, Premiere & Indesign)
      - [x] Google Marketing Platform (Ads, Tag Manager, Analytics etc)
      - [x] Facebook, Instagram and LinkedIn Ads
-     - [ ] Laragon, Xampp, NPM, CLI
-     - [ ] Digital and Agile Thinking (Agile methodologies)
+     - [X] Laragon, Xampp (for WordPress)
+     - [x] Digital and Agile Thinking (Agile methodologies)
+     - [x] Photograph/Filmmarker (Canon, Sony | lenses - lighting, modifiers, flash - handy recorder etc)
  
  2. Currently learning:
+     - Debian (GNU/Linux)
+     - Python
      - Javascript 
      - PHP 
      - Cloud Computing (<a href="https://cloud.google.com">GCP</a>, <a href="https://aws.amazon.com/pt/">AWS</a> and <a href="https://azure.microsoft.com/pt-br/">Azure</a>)
-     - Ubuntu (Linux distribution)
-
- 3. My Next roadmap
-     - Tailwind
+     
+ 3. My Next roadmap (2023)
+     - Django
      - Typescript
      - React
-     - Python
-     - Flutter
-     - IoT
-     - Machine Learning
        
  <br>  
- 📫 How to reach me? Send me <a href="mailto:fernando@lidere360ads.com">an email</a> or message on <a href="https://www.instagram.com/fernandodoc7/" target="_blank">Instagram</a>, <a href="https://wa.me/5516981180180" target="_blank">WhatsApp</a>, <a href="https://t.me/FernandoConsultorProfessor" target="_blank">Telegram</a> or <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">LinkedIn</a><br> 
+ 📫 How to reach me? Send me <a href="mailto:ofernandodoc@gmail.com">an email</a> or message on <a href="https://www.instagram.com/fernandodoc7/" target="_blank">Instagram</a>, <a href="https://wa.me/5516981180180" target="_blank">WhatsApp</a>, <a href="https://t.me/FernandoConsultorProfessor" target="_blank">Telegram</a> or <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">LinkedIn</a><br> 
  <br>
  
  ☕ Let's have fun, drink coffee and talk?

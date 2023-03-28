@@ -12,6 +12,9 @@ Here´s my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">Li
 <h2>About me:</h2>
 
 __Microsoft Certified: AZ 900__<br>
+- Degree in "International Relations",
+- MBA in "Sales Management",
+- Expert in "Hard Negotiations"
 
 __- 20 years experience with Sales Consulting, Business Management, Customer Success Manager and Account Manager.__<br>
 __- 5 years experience with digital marketing.__
@@ -20,9 +23,7 @@ __- Experience meeting and exceeding Net Revenue Retention (NRR) and growth goal
 __- Working with website development, web design, digital marketing, audiovisual, copywriting and making some coffees.__<br>
 __- Looking to collaborate with projects open source or new projects. If I am useful, just contact me.__<br>
  <br><br>
- __- MBA in "Sales Management", degree in "International Relations", expert in "Hard Negotiations and some certifications in digital marketing".__
-
- 
+  
  1. Skills
      - [x] HTML, CSS and Bootstrap
      - [x] WordPress and builders like Elementor, Yoo and Wp Bakery

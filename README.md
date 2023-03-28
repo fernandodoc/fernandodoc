@@ -6,7 +6,7 @@ Don't give it a second thought... let´s talk, work and having fun.
 <br> 
 <br> 
 Here´s my <a href="https://www.linkedin.com/in/fernandodoc/" target="_blank">LinkedIn</a> but I'm also...
-> a photografy, filmaker, editor, guitarplayer, cooker and writer (in my free time). 
+> a tech lover, ninja sales, marketing technologist, photografy, filmaker, guitarplayer, cooker and writer (in my free time). 
 <br> 
  
 <h2>About me:</h2>
